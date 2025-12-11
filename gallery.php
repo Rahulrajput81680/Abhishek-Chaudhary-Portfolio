@@ -3,24 +3,35 @@
 
 
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Gallery - Abhishek Chaudhary</title>
-
+    <title>Gallery | Abhishek Chaudhary Social Work Activities</title>
+    <meta name="description"
+        content="Browse the gallery showcasing Abhishek Chaudhary’s social activities, community programs, awareness campaigns, events, and rural development initiatives.">
+    <meta name="keywords" content="Abhishek Chaudhary gallery, social work photos, community events, NGO activities">
+    <!-- Open Graph Tags: -->
+    <meta property="og:title" content="Gallery – Abhishek Chaudhary | Social Work Highlights">
+    <meta property="og:description"
+        content="View photo highlights of events, programs, campaigns, and community initiatives led by Abhishek Chaudhary.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Abhishek Chaudhary Portfolio">
 </head>
-   
-<?php include 'components/links.php' ?> 
+<?php include 'components/links.php' ?>
 
 <!-- page wrapper -->
+
 <body>
 
     <?php include 'components/header.php' ?>
 
+
     <div class="boxed_wrapper">
-   
-      
+
+
 
         <!-- sidebar cart item -->
         <div class="xs-sidebar-group info-group info-sidebar">
@@ -76,10 +87,13 @@
         <!-- END sidebar widget item -->
 
 
-        
+
         <!-- Page Title -->
-        <section class="page-title custom-banner-height" style="background-image: url(https://images.pexels.com/photos/1028636/pexels-photo-1028636.jpeg); position: relative;">
-            <div class="banner-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+        <section class="page-title custom-banner-height"
+            style="background-image: url(assets/images/OptimizedImages/gallery-hero-banner.webp); position: relative;">
+            <div class="banner-overlay"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;">
+            </div>
             <div class="auto-container" style="position: relative; z-index: 2;">
                 <div class="content-box">
                     <div class="title centred">
@@ -93,7 +107,7 @@
             </div>
         </section>
         <!-- End Page Title -->
-    
+
 
 
         <!-- portfolio-section -->
@@ -116,10 +130,12 @@
                         </ul>
                     </div> -->
                     <div class="items-container row clearfix">
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide conference celebration">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide conference celebration">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/gallery1.png" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/OptimizedImages/gallery1.webp"
+                                            alt=""></figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -130,10 +146,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference guide industry">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference guide industry">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/gallery2.png" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/OptimizedImages/gallery2.webp"
+                                            alt=""></figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -144,10 +162,12 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide celebration government">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide celebration government">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/gallery3.png" alt=""></figure>
+                                    <figure class="image-box"><img src="assets/images/OptimizedImages/gallery3.webp"
+                                            alt=""></figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -158,10 +178,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference celebration industry">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference celebration industry">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/gallery4.jpg" alt=""></figure>
+                                    <figure class="image-box"><img
+                                            src="assets/images/OptimizedImages/abhishek-meeting1.webp" alt="">
+                                    </figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -172,10 +195,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide conference celebration government">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all guide conference celebration government">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/gallery5.png" alt=""></figure>
+                                    <figure class="image-box"><img
+                                            src="assets/images/OptimizedImages/abhishek-meeting2.webp" alt="">
+                                    </figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -186,10 +212,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference guide industry">
+                        <div
+                            class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all conference guide industry">
                             <div class="portfolio-block-one">
                                 <div class="inner-box">
-                                    <figure class="image-box"><img src="assets/images/myImages/abhishek-meeting2.png" alt=""></figure>
+                                    <figure class="image-box"><img
+                                            src="assets/images/OptimizedImages/abhishek-chaudhary2.webp" alt="">
+                                    </figure>
                                     <div class="content-box">
                                         <div class="link"><a><i class="flaticon-right-arrow"></i></a></div>
                                         <!-- <div class="text">
@@ -250,7 +279,7 @@
         <!-- portfolio-section end -->
 
 
-       <?php include 'components/footer.php' ?>
+        <?php include 'components/footer.php' ?>
 
 
 
@@ -260,8 +289,8 @@
         </button>
     </div>
 
-<?php include 'components/script.php' ?>
- 
+    <?php include 'components/script.php' ?>
+
 </body>
 <!-- End of .page_wrapper -->
 

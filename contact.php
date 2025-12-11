@@ -3,24 +3,37 @@
 
 
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>About - Abhishek Chaudhary</title>
+    <title>Contact | Connect with Abhishek Chaudhary</title>
+    <meta name="description"
+        content="Get in touch with Abhishek Chaudhary for collaborations, social initiatives, community programs, and support-related queries.">
+    <meta name="keywords" content="contact Abhishek Chaudhary, social worker contact, collaboration, NGO support">
+    <!-- Open Graph Tags: -->
+    <meta property="og:title" content="Contact Abhishek Chaudhary – Get in Touch">
+    <meta property="og:description"
+        content="Reach out to Abhishek Chaudhary for collaborations, social work initiatives, or community development programs.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Abhishek Chaudhary Portfolio">
+
 
 </head>
-   
+
 <?php include 'components/links.php' ?>
 
 <!-- page wrapper -->
+
 <body>
     <?php include 'components/header.php' ?>
 
     <div class="boxed_wrapper">
 
         <!-- preloader -->
-    <?php include 'components/preloader.php' ?>
+        <?php include 'components/preloader.php' ?>
         <!-- preloader end -->
 
         <!-- sidebar cart item -->
@@ -75,11 +88,14 @@
             </div>
         </div>
         <!-- END sidebar widget item -->
-         
-        
+
+
         <!-- Page Title -->
-        <section class="page-title custom-banner-height" style="background-image: url(https://cdn.pixabay.com/photo/2020/10/28/06/12/smartphone-5692534_1280.jpg); position: relative;">
-            <div class="banner-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+        <section class="page-title custom-banner-height"
+            style="background-image: url(assets/images/OptimizedImages/contact-hero-banner.webp); position: relative;">
+            <div class="banner-overlay"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;">
+            </div>
             <div class="auto-container" style="position: relative; z-index: 2;">
                 <div class="content-box">
                     <div class="title centred">
@@ -93,8 +109,8 @@
             </div>
         </section>
         <!-- End Page Title -->
-        
-       
+
+
 
         <!-- contact-information -->
         <section class="contact-information">
@@ -109,25 +125,30 @@
                                     <div class="title-shape"></div>
                                 </div>
                                 <div class="text">
-                                    <p>We know how important it is for you to receive support and services when you need them the most.</p>
-                                    <h4><i class="flaticon-map-1"></i> <br />Postal Address</h4>
-                                    <p>Vill- Prahadgadhi, <br>Gram Panchayat: Sultanpatti, <br>Block: Naujhil,<br> Vidhansabha: Mant,<br> District: Mathura</p>
-                                    <!-- <a href="contact.html">Get Direction<i class="flaticon-right-arrow"></i></a> -->
+                                    <p>We know how important it is for you to receive support and services when you need
+                                        them the most.</p>
+                                    <!-- <h4><i class="flaticon-map-1"></i> <br />Postal Address</h4>
+                                    <p>Vill- Prahadgadhi, <br>Gram Panchayat: Sultanpatti, <br>Block: Naujhil,<br>
+                                        Vidhansabha: Mant,<br> District: Mathura</p>
+                                    <a href="contact.html">Get Direction<i class="flaticon-right-arrow"></i></a> -->
                                 </div>
                                 <div class="social-box">
                                     <h4>Social Media</h4>
                                     <ul class="social-style-one clearfix">
-                                        <li><a href="https://www.facebook.com/share/17qThQ5DPS/"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="https://www.facebook.com/share/17qThQ5DPS/"><i
+                                                    class="fab fa-facebook-f"></i></a></li>
                                         <!-- <li><a href="contact.html"><i class="fab fa-twitter"></i></a></li> -->
                                         <!-- <li><a href="contact.html"><i class="fab fa-google-plus-g"></i></a></li> -->
-                                        <li><a href="https://www.instagram.com/abhishek_samajsewak/"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="https://www.instagram.com/abhishek_samajsewak/"><i
+                                                    class="fab fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 image-column">
-                        <figure class="image-box"><img src="./assets/images/myImages/abhishek-chaudhary2.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="./assets/images/OptimizedImages/abhishek-chaudhary2.webp"
+                                alt=""></figure>
                     </div>
                     <div class="col-lg-4 col-md-12 col-sm-12 content-column">
                         <div class="content_block_13">
@@ -136,7 +157,7 @@
                                     <div class="icon-box"><i class="flaticon-mail-inbox-app"></i></div>
                                     <ul class="info clearfix">
                                         <li>
-                                            <h5>Business</h5>
+                                            <h5>Email</h5>
                                             <p><a>abhisheksamajsevak@gmail.com</a></p>
                                         </li>
                                         <!-- <li>
@@ -159,16 +180,22 @@
                                     </ul>
                                 </div>
                                 <div class="single-item">
-                                    <div class="icon-box"><i class="flaticon-clock"></i></div>
+                                    <div class="icon-box"><i class="flaticon-map-1"></i></div>
                                     <ul class="info clearfix">
                                         <li>
+                                            <h5>Address</h5>
+                                            <p>Vill- Prahadgadhi, <br>Gram Panchayat: Sultanpatti, <br>Block:
+                                                Naujhil,<br>
+                                                Vidhansabha: Mant,<br> District: Mathura</p>
+                                        </li>
+                                        <!-- <li>
                                             <h5>Mon - Friday</h5>
                                             <p>9.00 am to 6.45 pm</p>
                                         </li>
                                         <li>
                                             <h5>Saturday</h5>
                                             <p>10.30 am to 4.15 pm</p>
-                                        </li>
+                                        </li> -->
                                     </ul>
                                 </div>
                             </div>
@@ -181,14 +208,16 @@
 
 
         <!-- contact-information-two -->
-        <section class="contact-information-two" style="background-image: url(assets/images/background/download-bg.jpg);">
+        <section class="contact-information-two"
+            style="background-image: url(assets/images/background/download-bg.jpg);">
             <div class="layer-bg" style="background-image: url(assets/images/background/layer-bg-2.jpg);"></div>
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-6 col-md-12 col-sm-12 content-column">
                         <div class="content_block_3">
                             <div class="content-box">
-                                <h4><i class="flaticon-emergency-call-1"></i>Emergency <br />Phone Numbers to Have Handy</h4>
+                                <h4><i class="flaticon-emergency-call-1"></i>Emergency <br />Phone Numbers to Have Handy
+                                </h4>
                                 <h2>Emergency Phone Numbers You Should Know</h2>
                                 <!-- <div class="btn-box"><a href="contact.html" class="theme-btn style-two">Take Print</a></div> -->
                             </div>
@@ -276,8 +305,8 @@
             </div>
         </section>
         <!-- contact-information-two end -->
-        
-       <?php include 'components/footer.php' ?>
+
+        <?php include 'components/footer.php' ?>
 
 
 
@@ -287,8 +316,8 @@
         </button>
     </div>
 
-<?php include 'components/script.php' ?>
- 
+    <?php include 'components/script.php' ?>
+
 </body>
 <!-- End of .page_wrapper -->
 

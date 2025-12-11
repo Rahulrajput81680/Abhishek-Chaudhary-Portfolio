@@ -36,7 +36,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="col-lg-4 col-md-6 col-sm-12 footer-column">
                     <div class="footer-widget contact-widget">
                         <div class="widget-title">
@@ -45,16 +45,20 @@
                         <div class="widget-content">
                             <ul class="info clearfix">
                                 <li>
-                                    <h5>Location</h5>
-                                    <p>Village: Prahadgadhi,Gram Panchayat: Sultan Patti, Block: Naujhil, Vidhansabha: Mant,District: Mathura,Uttar Pradesh</p>
+                                    <h5 class="gap:5px"><i class="flaticon-location"></i>Location</h5>
+                                    <p>Village: Prahadgadhi,Gram Panchayat: Sultan Patti, Block: Naujhil, Vidhansabha:
+                                        Mant,District: Mathura,Uttar Pradesh</p>
                                 </li>
                                 <li>
-                                    <h5>Phone</h5>
-                                    <p><a href="tel:7503921975">+91 7503921975</a></p>
+
+                                    <h5><i class="flaticon-emergency-call"></i>Phone</h5>
+                                    <p><a>+91 7503921975</a></p>
                                 </li>
                                 <li>
-                                    <h5>Email</h5>
-                                    <p><a href="mailto:abhisheksamajsevak@gmail.com">abhisheksamajsevak@gmail.com</a></p>
+
+                                    <h5><i class="flaticon-mail-inbox-app"></i>Email</h5>
+                                    <p><a>abhisheksamajsevak@gmail.com</a>
+                                    </p>
                                 </li>
                             </ul>
                         </div>
@@ -79,10 +83,10 @@
         <div class="auto-container">
             <div class="bottom-inner  ">
                 <div class="copyright ">
-                    <p>&copy; <?php echo date('Y'); ?> |  All Rights Reserved. </p>
+                    <p>&copy; <?php echo date('Y'); ?> | All Rights Reserved. </p>
                 </div>
                 <div class="copyright ">
-                    <p> Developed By <a href="wwww.digiconnunite.com">Digiconn Unite Pvt.Ltd.</a>  </p>
+                    <p> Developed By <a href="https://digiconnunite.com/">Digiconn Unite Pvt.Ltd.</a> </p>
                 </div>
             </div>
         </div>

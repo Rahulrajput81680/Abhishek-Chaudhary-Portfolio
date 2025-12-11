@@ -3,24 +3,37 @@
 
 
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>Events - Abhishek Chaudhary</title>
+    <title>Events | Abhishek Chaudhary Social Activities & Programs</title>
+    <meta name="description"
+        content="Stay updated with Abhishek Chaudhary’s latest events, awareness drives, social programs, workshops, and community welfare missions.">
+    <meta name="keywords" content="Abhishek Chaudhary events, social programs, workshops, awareness missions">
+    <!-- Open Graph Tags: -->
+    <meta property="og:title" content="Events – Programs & Social Initiatives by Abhishek Chaudhary">
+    <meta property="og:description"
+        content="Explore upcoming and past events, awareness campaigns, and community welfare activities organized by Abhishek Chaudhary.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Abhishek Chaudhary Portfolio">
+
 
 </head>
-   
+
 <?php include 'components/links.php' ?>
 
 <!-- page wrapper -->
+
 <body>
     <?php include 'components/header.php' ?>
 
     <div class="boxed_wrapper">
 
         <!-- preloader -->
-    <?php include 'components/preloader.php' ?>
+        <?php include 'components/preloader.php' ?>
         <!-- preloader end -->
 
         <!-- sidebar cart item -->
@@ -77,8 +90,11 @@
         <!-- END sidebar widget item -->
 
         <!-- Page Title -->
-        <section class="page-title custom-banner-height" style="background-image: url(https://cdn.pixabay.com/photo/2016/05/06/09/25/human-1375492_1280.png); position: relative;">
-            <div class="banner-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+        <section class="page-title custom-banner-height"
+            style="background-image: url(assets/images/OptimizedImages/events-hero-banner.webp); position: relative;">
+            <div class="banner-overlay"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;">
+            </div>
             <div class="auto-container" style="position: relative; z-index: 2;">
                 <div class="content-box">
                     <div class="title centred">
@@ -92,8 +108,8 @@
             </div>
         </section>
         <!-- End Page Title -->
-        
-        
+
+
         <!-- Event Filter Buttons -->
         <section class="event-filter-section centred" style="background-color: #f5f5f5; padding: 30px 0;">
             <div class="auto-container">
@@ -113,57 +129,58 @@
         <section class="news-section blog-grid sec-pad-2 past-events-section" style="display: none;">
             <div class="auto-container">
                 <div class="row clearfix">
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
-                                        
-                                        <img src="assets/images/myImages/past-events1.png" alt="">
+
+                                        <img src="assets/images/OptimizedImages/UpcomingEvents1.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>15<span>Nov'2025</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>15<span>Nov'2025</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
-                                    <div class="category"><a href="blog.html"><i class="flaticon-star"></i>Announcement</a></div>
+                                    <div class="category"><a href="blog.html"><i
+                                                class="flaticon-star"></i>Announcement</a></div>
                                     <h4>Health & Medical Awareness Camp</h4>
-                                    <!-- <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a href="blog-details.html">Harley Reuban</a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">2 Comments</a></li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    </div> -->
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
-                                        <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
                                         <img src="assets/images/myImages/past-events2.png" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>14<span>Dec’20</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>14<span>Dec’20</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Education</a></div>
                                     <h4>Education Support Drive</h4>
-                                    <!-- <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a href="blog-details.html">Bert Anslem</a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">2 Comments</a></li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/past-events3.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Past-events1.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>06<span>Nov’25 </span></h3></div>
+                                    <div class="post-date">
+                                        <h3>06<span>Nov’25 </span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -177,14 +194,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/Past-events4.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Past-events2.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>15<span>Oct’25</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>15<span>Oct’25</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -198,14 +218,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/past-events5.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Past-events3.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>02<span>Oct’25</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>02<span>Oct’25</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -219,113 +242,101 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/past-events6.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Past-events4.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>27<span>Sep’25</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>27<span>Sep’25</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announced</a></div>
                                     <h4><a href="blog-details.html">Tree Plantation Mission</a></h4>
-                                    <!-- <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a>Bert Anslem</a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">4 Comments</a></li>
-                                    </ul> -->
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <!-- <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
-                            <div class="inner-box">
-                                <div class="image-box">
-                                    <figure class="image">
-                                        <a href="blog-details.html"><i class="fas fa-link"></i></a>
-                                        <img src="assets/images/news/news-10.jpg" alt="">
-                                    </figure>
-                                    <div class="post-date"><h3>14<span>Sep’20</span></h3></div>
-                                </div>
-                                <div class="lower-content">
-                                    <div class="category"><a href="blog.html"><i class="flaticon-star"></i>Education</a></div>
-                                    <h4><a href="blog-details.html">Have Your Say on New Pocket Parks for Collingwood</a></h4>
-                                    <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a href="blog-details.html">Bert Anslem</a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">2 Comments</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-                    <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12 news-block">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <a href="blog-details.html"><i class="fas fa-link"></i></a>
                                         <img src="assets/images/news/news-11.jpg" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>30<span>Aug’20</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>30<span>Aug’20</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
-                                    <div class="category"><a href="blog.html"><i class="flaticon-star"></i>Announcement</a></div>
-                                    <h4><a href="blog-details.html">Are You Enrolled to Vote in the 2021 Local Elections?</a></h4>
+                                    <div class="category"><a href="blog.html"><i
+                                                class="flaticon-star"></i>Announcement</a></div>
+                                    <h4><a href="blog-details.html">Are You Enrolled to Vote in the 2021 Local
+                                            Elections?</a></h4>
                                     <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a href="blog-details.html">Harley Reuban </a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">0 Comments</a></li>
+                                        <li><i class="far fa-user"></i><a href="blog-details.html">Harley Reuban </a>
+                                        </li>
+                                        <li><i class="far fa-comment"></i><a href="blog-details.html">0 Comments</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <a href="blog-details.html"><i class="fas fa-link"></i></a>
                                         <img src="assets/images/news/news-12.jpg" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>21<span>Aug’20</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>21<span>Aug’20</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
-                                    <div class="category"><a href="blog.html"><i class="flaticon-star"></i>Announcement</a></div>
-                                    <h4><a href="blog-details.html">We Calls for More Support for public housing...</a></h4>
+                                    <div class="category"><a href="blog.html"><i
+                                                class="flaticon-star"></i>Announcement</a></div>
+                                    <h4><a href="blog-details.html">We Calls for More Support for public housing...</a>
+                                    </h4>
                                     <ul class="post-info clearfix">
-                                        <li><i class="far fa-user"></i><a href="blog-details.html">Harley Reuban</a></li>
-                                        <li><i class="far fa-comment"></i><a href="blog-details.html">2 Comments</a></li>
+                                        <li><i class="far fa-user"></i><a href="blog-details.html">Harley Reuban</a>
+                                        </li>
+                                        <li><i class="far fa-comment"></i><a href="blog-details.html">2 Comments</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
-                        </div> 
-                    </div>
+                        </div>
+                    </div> -->
                 </div>
-                <!-- <div class="pagination-wrapper centred">
-                    <ul class="pagination clearfix">
-                        <li><a href="blog.html"><i class="far fa-angle-double-left"></i></a></li>
-                        <li><a href="blog.html" class="current">1</a></li>
-                        <li><a href="blog.html">2</a></li>
-                        <li><a href="blog.html"><i class="far fa-angle-double-right"></i></a></li>
-                    </ul>
-                </div> -->
+
             </div>
         </section>
         <!-- news-section end -->
-         <section class="news-section blog-grid sec-pad-2 upcoming-events-section">
+        <section class="news-section blog-grid sec-pad-2 upcoming-events-section">
             <div class="auto-container">
                 <div class="row clearfix">
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents1.png" alt="">
+                                        <img src="assets/images/OptimizedImages/UpcomingEvents1.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>28<span>Jan’26</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>28<span>Jan’26</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -339,14 +350,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents2.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Digital-Literacy-Program.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>14<span>Dec’26</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>14<span>Dec’26</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Education</a></div>
@@ -360,14 +374,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents3.png" alt="">
+                                        <img src="assets/images/OptimizedImages/Women-Entrepreneurship.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>06<span>Nov’20</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>06<span>Nov’20</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -381,14 +398,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents4.png" alt="">
+                                        <img src="assets/images/OptimizedImages/UpcomingEvents4.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>15<span>Feb’26</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>15<span>Feb’26</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -402,14 +422,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="300ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents5.png" alt="">
+                                        <img src="assets/images/OptimizedImages/UpcomingEvents5.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>02<span>Jan’25</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>02<span>Jan’25</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Announcement</a></div>
@@ -423,14 +446,17 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 news-block">
-                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="news-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="image-box">
                                     <figure class="image">
                                         <!-- <a href="blog-details.html"><i class="fas fa-link"></i></a> -->
-                                        <img src="assets/images/myImages/upcomingEvents6.png" alt="">
+                                        <img src="assets/images/OptimizedImages/UpcomingEvents6.webp" alt="">
                                     </figure>
-                                    <div class="post-date"><h3>27<span>March’26</span></h3></div>
+                                    <div class="post-date">
+                                        <h3>27<span>March’26</span></h3>
+                                    </div>
                                 </div>
                                 <div class="lower-content">
                                     <div class="category"><a><i class="flaticon-star"></i>Education</a></div>
@@ -505,9 +531,9 @@
                                 </div>
                             </div>
                         </div> -->
-                    </div>
                 </div>
-                <!-- <div class="pagination-wrapper centred">
+            </div>
+            <!-- <div class="pagination-wrapper centred">
                     <ul class="pagination clearfix">
                         <li><a href="blog.html"><i class="far fa-angle-double-left"></i></a></li>
                         <li><a href="blog.html" class="current">1</a></li>
@@ -515,24 +541,48 @@
                         <li><a href="blog.html"><i class="far fa-angle-double-right"></i></a></li>
                     </ul>
                 </div> -->
-            </div>
-        </section>
-        <!-- news-section end -->
+    </div>
+    </section>
+    <!-- news-section end -->
 
 
 
 
 
-       <?php include 'components/footer.php' ?>
+    <?php include 'components/footer.php' ?>
 
-        <!--Scroll to top-->
-        <button class="scroll-top scroll-to-target" data-target="html">
-            <span class="fas fa-angle-up"></span>
-        </button>
+    <!--Scroll to top-->
+    <button class="scroll-top scroll-to-target" data-target="html">
+        <span class="fas fa-angle-up"></span>
+    </button>
     </div>
 
-<?php include 'components/script.php' ?>
- 
+    <?php include 'components/script.php' ?>
+
+    <script>
+        // Event filter functionality
+        document.addEventListener('DOMContentLoaded', function () {
+            const filterButtons = document.querySelectorAll('.event-filter-btn');
+            const pastEventsSection = document.querySelector('.past-events-section');
+            const upcomingEventsSection = document.querySelector('.upcoming-events-section');
+
+            filterButtons.forEach(button => {
+                button.addEventListener('click', function () {
+                    filterButtons.forEach(btn => btn.classList.remove('active'));
+                    this.classList.add('active');
+                    const filterValue = this.getAttribute('data-filter');
+                    if (filterValue === 'past') {
+                        pastEventsSection.style.display = 'block';
+                        upcomingEventsSection.style.display = 'none';
+                    } else if (filterValue === 'upcoming') {
+                        pastEventsSection.style.display = 'none';
+                        upcomingEventsSection.style.display = 'block';
+                    }
+                });
+            });
+        });
+    </script>
+
 </body>
 <!-- End of .page_wrapper -->
 

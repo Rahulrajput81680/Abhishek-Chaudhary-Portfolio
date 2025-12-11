@@ -3,24 +3,39 @@
 
 
 <head>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-<title>About - Abhishek Chaudhary</title>
+
+    <title>About Abhishek Chaudhary – Journey, Vision & Social Impact</title>
+    <meta name="description"
+        content="Learn about Abhishek Chaudhary’s journey, mission, vision, and contributions toward social welfare, rural upliftment, education, and environmental development.">
+    <meta name="keywords"
+        content="About Abhishek Chaudhary, social leader biography, community development, youth empowerment">
+
+    <!-- Open Graph Tags: -->
+    <meta property="og:title" content="About Abhishek Chaudhary – Journey, Vision & Leadership">
+    <meta property="og:description"
+        content="Learn about the life, journey, and leadership mission of Abhishek Chaudhary. Dedicated to social upliftment and community empowerment.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="">
+    <meta property="og:site_name" content="Abhishek Chaudhary Portfolio">
 
 </head>
-   
+
 <?php include 'components/links.php' ?>
 
 <!-- page wrapper -->
+
 <body>
     <?php include 'components/header.php' ?>
 
     <div class="boxed_wrapper">
 
         <!-- preloader -->
-    <?php include 'components/preloader.php' ?>
+        <?php include 'components/preloader.php' ?>
         <!-- preloader end -->
 
         <!-- sidebar cart item -->
@@ -76,10 +91,13 @@
         </div>
         <!-- END sidebar widget item -->
 
-      
+
         <!-- Page Title -->
-        <section class="page-title custom-banner-height" style="background-image: url(https://cdn.pixabay.com/photo/2017/07/16/07/50/imprint-2508603_1280.jpg); position: relative;">
-            <div class="banner-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;"></div>
+        <section class="page-title custom-banner-height"
+            style="background-image: url(assets/images/OptimizedImages/about-hero-banner.webp); position: relative;">
+            <div class="banner-overlay"
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.5); z-index: 1;">
+            </div>
             <div class="auto-container" style="position: relative; z-index: 2;">
                 <div class="content-box">
                     <div class="title centred">
@@ -93,8 +111,8 @@
             </div>
         </section>
         <!-- End Page Title -->
-        
-        
+
+
 
         <!-- about-style-three -->
         <section class="about-style-three">
@@ -110,7 +128,10 @@
                                 </div>
                                 <div class="text">
                                     <h4>"We started serving from 2023”</h4>
-                                    <p>My mission is to become a bridge between the people and the solutions they truly need. Whether it is resolving public issues, supporting underprivileged families, or encouraging youth to build a bright future, I strive to create real and lasting change at the ground level.</p>
+                                    <p>My mission is to become a bridge between the people and the solutions they truly
+                                        need. Whether it is resolving public issues, supporting underprivileged
+                                        families, or encouraging youth to build a bright future, I strive to create real
+                                        and lasting change at the ground level.</p>
                                     <ul class="list clearfix">
                                         <li><i class="flaticon-bird"></i>Strong Upport system for women</li>
                                         <li><i class="flaticon-bird"></i>Affordable and accessible healthcare</li>
@@ -123,12 +144,14 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 image-column">
-                        <figure class="image-box"><img src="assets/images/myImages/abhishek-chaudhary2.jpg" alt=""></figure>
+                        <figure class="image-box"><img src="assets/images/OptimizedImages/abhishek-chaudhary2.webp"
+                                alt=""></figure>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 inner-column">
                         <div class="feature-block-one">
                             <div class="inner-box">
-                                <figure class="image"><img src="assets/images/myImages/0433 1 (1).png" alt=""></figure>
+                                <figure class="image"><img src="assets/images/OptimizedImages/about1.webp" alt="">
+                                </figure>
                                 <div class="text">
                                     <!-- <h4>Meeting with village person</h4> -->
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
@@ -141,7 +164,8 @@
                         </div>
                         <div class="feature-block-one">
                             <div class="inner-box">
-                                <figure class="image"><img src="assets/images/myImages/gallery3.png" alt=""></figure>
+                                <figure class="image"><img src="assets/images/OptimizedImages/gallery3.webp" alt="">
+                                </figure>
                                 <div class="text">
                                     <!-- <h4>Meeting with Parshad Ji</h4> -->
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
@@ -160,7 +184,8 @@
 
 
         <!-- discover-section -->
-        <section class="discover-section sec-pad" style="background-image: url(assets/images/background/discover-bg.jpg);">
+        <section class="discover-section sec-pad"
+            style="background-image: url(assets/images/background/discover-bg.jpg);">
             <div class="auto-container">
                 <div class="sec-title centred light">
                     <h6><i class="flaticon-star"></i><span>Our Principles</span><i class="flaticon-star"></i></h6>
@@ -169,7 +194,8 @@
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
-                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="content-box">
                                     <div class="icon-box"><i class="flaticon-job"></i></div>
@@ -179,7 +205,8 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h4>Humanity First<br />Approach</h4>
-                                    <p>Every individual deserves respect, care, and support regardless of caste, religion, background, or status. Humanity guides every action we take..</p>
+                                    <p>Every individual deserves respect, care, and support regardless of caste,
+                                        religion, background, or status. Humanity guides every action we take..</p>
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
                                     <span class="count">01</span>
                                 </div>
@@ -187,7 +214,8 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
-                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="200ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="content-box">
                                     <div class="icon-box"><i class="flaticon-building"></i></div>
@@ -197,7 +225,8 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h4>Honesty & Transparency</h4>
-                                    <p>We believe in open communication, truthful leadership, and complete transparency in every initiative and responsibility.</p>
+                                    <p>We believe in open communication, truthful leadership, and complete transparency
+                                        in every initiative and responsibility.</p>
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
                                     <span class="count">02</span>
                                 </div>
@@ -205,7 +234,8 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
-                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="400ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="content-box">
                                     <div class="icon-box"><i class="flaticon-teamwork"></i></div>
@@ -215,7 +245,8 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h4>Equality & Social Justice</h4>
-                                    <p>A fair society is one where opportunity and rights are equally shared. We stand firmly for justice and equal treatment for every citizen.</p>
+                                    <p>A fair society is one where opportunity and rights are equally shared. We stand
+                                        firmly for justice and equal treatment for every citizen.</p>
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
                                     <span class="count">03</span>
                                 </div>
@@ -223,7 +254,8 @@
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 discover-block">
-                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="discover-block-one wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
                                 <div class="content-box">
                                     <div class="icon-box"><i class="flaticon-location"></i></div>
@@ -233,7 +265,8 @@
                                 </div>
                                 <div class="overlay-content">
                                     <h4>Empathy & Understanding</h4>
-                                    <p>To solve real problems, first we listen. Understanding people’s challenges is the first step toward bringing meaningful change.</p>
+                                    <p>To solve real problems, first we listen. Understanding people’s challenges is the
+                                        first step toward bringing meaningful change.</p>
                                     <!-- <a href="about.html"><i class="flaticon-right-arrow"></i></a> -->
                                     <span class="count">04</span>
                                 </div>
@@ -246,7 +279,8 @@
         <!-- discover-section end -->
 
         <!-- feature-section -->
-        <section class="feature-section sec-pad" style="background-image: url(assets/images/background/feature-bg.jpg);">
+        <section class="feature-section sec-pad"
+            style="background-image: url(assets/images/background/feature-bg.jpg);">
             <div class="auto-container">
                 <div class="sec-title centred">
                     <h6><i class="flaticon-star"></i><span>Our Mission</span><i class="flaticon-star"></i></h6>
@@ -255,52 +289,60 @@
                 </div>
                 <div class="row clearfix">
                     <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
-                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="00ms" data-wow-duration="1500ms">
+                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="00ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/myImages/about4.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/OptimizedImages/about4.webp" alt="">
+                                </figure>
                                 <div class="lower-content">
                                     <div class="icon-box"><i class="flaticon-group"></i></div>
                                     <div class="light-icon"><i class="flaticon-group"></i></div>
-                                    <h4><a href="about.html">Education for Poor Students</a></h4>
+                                    <h4><a>Education for Poor Students</a></h4>
                                     <!-- <div class="btn-box"><a href="about.html">Read More<i class="flaticon-right-arrow"></i></a></div> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
-                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="200ms" data-wow-duration="1500ms">
+                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="200ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/myImages/about5.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/OptimizedImages/about5.webp" alt="">
+                                </figure>
                                 <div class="lower-content">
                                     <div class="icon-box"><i class="flaticon-award"></i></div>
                                     <div class="light-icon"><i class="flaticon-award"></i></div>
-                                    <h4><a href="about.html">Healthcare & Wellness</a></h4>
+                                    <h4><a>Healthcare & Wellness</a></h4>
                                     <!-- <div class="btn-box"><a href="about.html">Read More<i class="flaticon-right-arrow"></i></a></div> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
-                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="400ms" data-wow-duration="1500ms">
+                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="400ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/myImages/about6.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/OptimizedImages/about6.webp" alt="">
+                                </figure>
                                 <div class="lower-content">
                                     <div class="icon-box"><i class="flaticon-analytics"></i></div>
                                     <div class="light-icon"><i class="flaticon-analytics"></i></div>
-                                    <h4><a href="about.html">Empowering Youth & Women</a></h4>
+                                    <h4><a>Empowering Youth & Women</a></h4>
                                     <!-- <div class="btn-box"><a href="about.html">Read More<i class="flaticon-right-arrow"></i></a></div> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 col-sm-12 feature-block">
-                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="600ms" data-wow-duration="1500ms">
+                        <div class="feature-block-two wow fadeInUp animated animated" data-wow-delay="600ms"
+                            data-wow-duration="1500ms">
                             <div class="inner-box">
-                                <figure class="image-box"><img src="assets/images/myImages/about7.png" alt=""></figure>
+                                <figure class="image-box"><img src="assets/images/OptimizedImages/about7.webp" alt="">
+                                </figure>
                                 <div class="lower-content">
                                     <div class="icon-box"><i class="flaticon-calendar-2"></i></div>
                                     <div class="light-icon"><i class="flaticon-calendar-2"></i></div>
-                                    <h4><a href="about.html">Community Development</a></h4>
+                                    <h4><a>Community Development</a></h4>
                                     <!-- <div class="btn-box"><a href="about.html">Read More<i class="flaticon-right-arrow"></i></a></div> -->
                                 </div>
                             </div>
@@ -312,10 +354,10 @@
         <!-- feature-section end -->
 
 
-        
 
-        
-       <?php include 'components/footer.php' ?>
+
+
+        <?php include 'components/footer.php' ?>
 
 
 
@@ -325,8 +367,8 @@
         </button>
     </div>
 
-<?php include 'components/script.php' ?>
- 
+    <?php include 'components/script.php' ?>
+
 </body>
 <!-- End of .page_wrapper -->
 

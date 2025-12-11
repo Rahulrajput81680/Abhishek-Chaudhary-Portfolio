@@ -1,10 +1,14 @@
-    <div class="loader-wrap">
-            <div class="preloader">
-                <!-- <div class="preloader-close">Preloader Close</div> -->
-                <div id="handle-preloader" class="handle-preloader">
-                    <div class="animation-preloader">
-                        <div class="spinner"></div>
-                        <!-- <div class="txt-loading">
+<div class="loader-wrap">
+    <div class="preloader">
+        <!-- <div class="preloader-close">Preloader Close</div> -->
+        <div id="handle-preloader" class="handle-preloader">
+            <div class="animation-preloader">
+                <div class="spinner">
+                    <div class="loader-logo">
+                        <img src="assets/images/myImages/abhishek-chaudhary.png" alt="Abhishek Chaudhary">
+                    </div>
+                </div>
+                <!-- <div class="txt-loading">
                             <span data-text-preloader="a" class="letters-loading">
                                 a
                             </span>
@@ -60,7 +64,7 @@
                                 y
                             </span>
                         </div> -->
-                    </div>  
-                </div>
             </div>
         </div>
+    </div>
+</div>
